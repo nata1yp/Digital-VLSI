@@ -1,0 +1,4 @@
+ERROR: Exception caught trying to open file C:\Users\n_pey\Desktop\dvlsi2021_lab5\dvlsi2021_ask5_prj\dvlsi2021_ask5_prj.runs\design_1_PL2PS_DMA_0_synth_1/runme.log
+	Exception name: Error
+	Exception error code: 70
+	Exception message: Permission denied

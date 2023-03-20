@@ -1,0 +1,39 @@
+{
+   ExpandedHierarchyInLayout: "",
+   guistr: "# # String gsaved with Nlview 6.8.5  2018-01-30 bk=1.4354 VDI=40 GEI=35 GUI=JA:1.6 non-TLS
+#  -string -flagsOSRD
+preplace port DDR -pg 1 -y 60 -defaultsOSRD
+preplace port ACLK -pg 1 -y 20 -defaultsOSRD
+preplace port S_AXIS_S2MM_FROM_ACCELERATOR -pg 1 -y 20 -defaultsOSRD
+preplace port M_AXIS_TO_ACCELERATOR -pg 1 -y 100 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -y 80 -defaultsOSRD
+preplace portBus ARESETN -pg 1 -y 40 -defaultsOSRD
+preplace inst PL_GEN_ARESETN_50 -pg 1 -lvl 2 -y 100 -defaultsOSRD
+preplace inst axi_smc -pg 1 -lvl 2 -y 1160 -defaultsOSRD
+preplace inst ps7_0_axi_periph -pg 1 -lvl 1 -y 300 -defaultsOSRD
+preplace inst axi_smc_1 -pg 1 -lvl 1 -y 80 -defaultsOSRD
+preplace inst PS_ARM -pg 1 -lvl 2 -y 780 -defaultsOSRD
+preplace inst PS2PL_DMA -pg 1 -lvl 2 -y 990 -defaultsOSRD
+preplace inst PL_GEN_ARESETN_100 -pg 1 -lvl 2 -y 310 -defaultsOSRD
+preplace inst PL2PS_DMA -pg 1 -lvl 2 -y 520 -defaultsOSRD
+preplace netloc processing_system7_0_DDR 1 2 1 950
+preplace netloc PL2PS_DMA_M_AXI_S2MM 1 0 3 20 0 NJ 0 920
+preplace netloc processing_system7_0_M_AXI_GP0 1 0 3 10 440 360J 420 900
+preplace netloc rst_ps7_0_100M_peripheral_aresetn 1 0 3 -20 540 320 620 910
+preplace netloc axi_smc_M00_AXI 1 1 2 400 1240 890
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 1 2 410 410 930
+preplace netloc S_AXIS_S2MM_0_1 1 0 2 -30 500 NJ
+preplace netloc ps7_0_axi_periph_M01_AXI 1 1 1 350
+preplace netloc rst_ps7_0_50M_interconnect_aresetn 1 0 3 0 160 400J 210 900
+preplace netloc processing_system7_0_FIXED_IO 1 2 1 960
+preplace netloc rst_ps7_0_50M_peripheral_aresetn 1 0 3 0 530 380 200 930
+preplace netloc PS2PL_DMA_M_AXIS_MM2S 1 2 1 970
+preplace netloc axi_smc_1_M00_AXI 1 1 1 390
+preplace netloc processing_system7_0_FCLK_CLK0 1 0 3 20 510 370 640 890
+preplace netloc ps7_0_axi_periph_M00_AXI 1 1 1 330
+preplace netloc PS2PL_DMA_M_AXI_MM2S 1 1 2 410 1080 890
+preplace netloc processing_system7_0_FCLK_CLK1 1 0 3 -10 520 340 630 940
+levelinfo -pg 1 -50 170 650 990 -top -10 -bot 1250
+",
+}
+0

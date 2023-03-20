@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2.1 (64-bit)
+# SW Build 2288692 on Thu Jul 26 18:24:02 MDT 2018
+# IP Build 2289599 on Thu Jul 26 21:09:20 MDT 2018
+# Start of session at: Thu May 27 18:25:39 2021
+# Process ID: 15752
+# Current directory: C:/Users/n_pey/Desktop/dvlsi2021_lab5/dvlsi2021_ask5_prj/dvlsi2021_ask5_prj.runs/design_1_auto_pc_0_synth_1
+# Command line: vivado.exe -log design_1_auto_pc_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_auto_pc_0.tcl
+# Log file: C:/Users/n_pey/Desktop/dvlsi2021_lab5/dvlsi2021_ask5_prj/dvlsi2021_ask5_prj.runs/design_1_auto_pc_0_synth_1/design_1_auto_pc_0.vds
+# Journal file: C:/Users/n_pey/Desktop/dvlsi2021_lab5/dvlsi2021_ask5_prj/dvlsi2021_ask5_prj.runs/design_1_auto_pc_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source design_1_auto_pc_0.tcl -notrace
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP design_1_auto_pc_0, cache-ID = 16cd8120a937153a.
+INFO: [Common 17-206] Exiting Vivado at Thu May 27 18:25:48 2021...

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2.1 (64-bit)
+# SW Build 2288692 on Thu Jul 26 18:24:02 MDT 2018
+# IP Build 2289599 on Thu Jul 26 21:09:20 MDT 2018
+# Start of session at: Thu May 27 18:24:11 2021
+# Process ID: 3856
+# Current directory: C:/Users/n_pey/Desktop/dvlsi2021_lab5/dvlsi2021_ask5_prj/dvlsi2021_ask5_prj.runs/design_1_PL_GEN_ARESETN_100_0_synth_1
+# Command line: vivado.exe -log design_1_PL_GEN_ARESETN_100_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_PL_GEN_ARESETN_100_0.tcl
+# Log file: C:/Users/n_pey/Desktop/dvlsi2021_lab5/dvlsi2021_ask5_prj/dvlsi2021_ask5_prj.runs/design_1_PL_GEN_ARESETN_100_0_synth_1/design_1_PL_GEN_ARESETN_100_0.vds
+# Journal file: C:/Users/n_pey/Desktop/dvlsi2021_lab5/dvlsi2021_ask5_prj/dvlsi2021_ask5_prj.runs/design_1_PL_GEN_ARESETN_100_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source design_1_PL_GEN_ARESETN_100_0.tcl -notrace

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2.1 (64-bit)
+# SW Build 2288692 on Thu Jul 26 18:24:02 MDT 2018
+# IP Build 2289599 on Thu Jul 26 21:09:20 MDT 2018
+# Start of session at: Thu Mar 18 18:42:28 2021
+# Process ID: 7356
+# Current directory: C:/Users/User/lab1_updown_counter/lab1_updown_counter.runs/impl_1
+# Command line: vivado.exe -log counter3_limit.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source counter3_limit.tcl -notrace
+# Log file: C:/Users/User/lab1_updown_counter/lab1_updown_counter.runs/impl_1/counter3_limit.vdi
+# Journal file: C:/Users/User/lab1_updown_counter/lab1_updown_counter.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source counter3_limit.tcl -notrace
